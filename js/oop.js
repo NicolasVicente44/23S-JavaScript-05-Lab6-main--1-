@@ -109,7 +109,7 @@ function Hamburger(bunType, garnishes, cheeseType, specialtySauce, meatType, pat
   console.log(myBurger.burgerInfo());
 
 
-  output2.textContent = myBurger.burgerInfo(); 
+  output.textContent = myBurger.burgerInfo(); 
 
   
 // add some extra if you want
